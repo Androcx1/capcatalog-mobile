@@ -29,3 +29,6 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+hs_err_pid*.log
+replay_pid*.log
+/android/
